@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Sistema P2P de Intercambio de Archivos
 
@@ -52,3 +53,7 @@ Con ese fin, primero debemos ejecutar el servicio web en una sesión de la termi
 En otra sesión de la terminal dentro de la misma máquina que el servidor web,
 creamos un cliente de la siguiente manera: 
 4. python3 client.py -s <ip del servidor> -p <puerto del servidor>
+=======
+# P2P-with-C-and-Python
+Sistema distribuido peer-to-peer (P2P) para intercambio de archivos, desarrollado en C y Python. Incluye servidor multihilo, cliente interactivo y servicio web REST. Proyecto para la asignatura Sistemas Distribuidos (UC3M, 2024–2025).
+>>>>>>> origin/main
