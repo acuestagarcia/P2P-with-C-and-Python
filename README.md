@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Sistema P2P de Intercambio de Archivos
 
 Este repositorio contiene un sistema distribuido cliente-servidor para la asignatura **Sistemas Distribuidos** del curso 2024–2025 en la Universidad Carlos III de Madrid (UC3M). El sistema permite el **registro, conexión, publicación, búsqueda y descarga de archivos** entre usuarios de una red P2P, gestionado por un servidor central multihilo y complementado por servicios web.
@@ -53,7 +51,3 @@ Con ese fin, primero debemos ejecutar el servicio web en una sesión de la termi
 En otra sesión de la terminal dentro de la misma máquina que el servidor web,
 creamos un cliente de la siguiente manera: 
 4. python3 client.py -s <ip del servidor> -p <puerto del servidor>
-=======
-# P2P-with-C-and-Python
-Sistema distribuido peer-to-peer (P2P) para intercambio de archivos, desarrollado en C y Python. Incluye servidor multihilo, cliente interactivo y servicio web REST. Proyecto para la asignatura Sistemas Distribuidos (UC3M, 2024–2025).
->>>>>>> origin/main
